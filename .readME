@@ -1,0 +1,26 @@
+PROJETO DESAFIO POO - GABRIEL VERÍSSIMO DE MOURA
+
+-------------------------------------------------INSTRUÇÃO DE USO------------------------------------------------------
+O Sistema foi projetado utilizando JAVA com JDK 21. Recomenda-se que use o mesmo JDK para executar o programa para não
+haver problemas com compatibilidade. Recomenda-se também que se use o IntelliJ Community, que pode ser baixado no site:
+https://www.jetbrains.com/idea/download/?section=windows
+-----------------------------------------------------------------------------------------------------------------------
+
+1. OBJETIVO:
+
+O Veríssimo's Parking traz como objetivo aplicar os conhecimentos obtidos no módulo de POO da academia GIS, através de
+um sistema de controle de entrada e saída de veículos de um estacionamento.
+
+2. Sobre:
+
+Para esse projeto, o valor definido por hora é de R$7,00. O estacionamento cobra inicialmente o valor de uma hora para
+receber um veículo, e a cada hora passada esse valor cresce numa razão linear de R$ 7,00 sem limite de horas.
+
+2.1. Regras do Sistema:
+* Não é possivel cadastrar dois veículos com placas identicas.
+* Só é possivel encerrar o período de permanência do veículo através de seu identificador único (placa).
+* O valor para carro ou moto são os mesmos.
+* Ao ser encerrado o período de permanência, Será o sistema fará o calculo do valor que deverá ser cobrado do cliente
+com base no tempo de permanência.
+
+
